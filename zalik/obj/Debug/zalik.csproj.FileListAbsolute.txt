@@ -1,0 +1,6 @@
+D:\КПІ\Шарпи\zalik\zalik\bin\Debug\zalik.exe.config
+D:\КПІ\Шарпи\zalik\zalik\bin\Debug\zalik.exe
+D:\КПІ\Шарпи\zalik\zalik\bin\Debug\zalik.pdb
+D:\КПІ\Шарпи\zalik\zalik\obj\Debug\zalik.csprojResolveAssemblyReference.cache
+D:\КПІ\Шарпи\zalik\zalik\obj\Debug\zalik.exe
+D:\КПІ\Шарпи\zalik\zalik\obj\Debug\zalik.pdb
